@@ -1,4 +1,7 @@
 # About me
+在“编辑”视图中，你将看到一些预先填充的文本来帮助你入门。 在第 1 行中，删除显示 ### Hi there 的文字并键入 # About me。
+
+在 Markdown 语法中， ### 会将纯文本呈现为较小的（“第三级”）标题，而将 ## 或 # 分别呈现为第二级和第一级标题。
 
 <!--
 **ZZH050505/ZZH050505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
